@@ -3,7 +3,7 @@
   "displayName": "Stardew Valley Theme",
   "description": "Experience the tranquil charm of Stardew Valley with our new VSCode theme.",
   "version": "0.0.3",
-  "icon": "icon.png",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.76.0"
   },
