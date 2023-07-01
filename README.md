@@ -44,4 +44,4 @@ Our theme offers a harmonious blend of nostalgic aesthetics and readability, pro
 
 ## Thank you
 
-If you are interested in our project, please take a look to  our [github page](https://github.com/zimo1412/stardew-valley-theme).
+If you are interested in our project, please take a look at our [github page](https://github.com/zimo1412/stardew-valley-theme).
