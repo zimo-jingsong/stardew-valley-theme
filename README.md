@@ -7,6 +7,11 @@
 
 <p align="center">
     Experience the tranquil charm of Stardew Valley with our new VSCode theme.
+    <br>
+    <br>
+    <a href="https://github.com/zimo1412/stardew-valley-theme/issues/new?assignees=&labels=feature&template=bug_report.md&title=">Report a Bug</a>
+    ·
+    <a href="https://github.com/zimo1412/stardew-valley-theme/issues/new?assignees=&labels=feature&template=feature_request.md&title=">Request feature</a>
 </p>
 
 [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/zimo.stardew-valley-theme?color=blue&logo=visual-studio)](https://marketplace.visualstudio.com/items?itemName=zimo.stardew-valley-theme&WT.mc_id=python-17801-anthonyshaw)
