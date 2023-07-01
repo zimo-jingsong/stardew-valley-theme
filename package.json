@@ -2,7 +2,7 @@
   "name": "stardew-valley-theme",
   "displayName": "Stardew Valley Theme",
   "description": "Experience the tranquil charm of Stardew Valley with our new VSCode theme. Crafted with love, it beautifully captures the game's vibrant colors, warm hues, and rustic simplicity. Whether you're coding the next big app or exploring data streams, let the soothing palette of the beloved farming simulation game guide your work. Our theme offers a harmonious blend of nostalgic aesthetics and readability, providing a coding environment that's as delightful as tending your virtual farm. Dive in, let your creativity bloom, and make every coding journey an enchanting Stardew Valley adventure.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.76.0"
   },
